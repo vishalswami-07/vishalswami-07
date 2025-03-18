@@ -35,12 +35,12 @@ UST Global | July 2024 – Present
 
 ## Projects
 
-### [Database AI Assistance Tools](#)
+### [Database AI Assistance Tools](https://github.com/vishalswami-07/AI-Database-Assistant)
 - **Technologies**: Langchain, RAG, OpenAI API, React (Frontend)
 - Built an intelligent database assistant that uses AI to query, manage, and retrieve data from databases efficiently.
 - Integrated Langchain for data pipelines, RAG for Retrieval-Augmented generation, and OpenAI API for NLP. Frontend built using React.
 
-### [Learning Management Platform Tools](#)
+### [Learning Management Platform Tools](https://github.com/vishalswami-07/Cap_project)
 - **Technologies**: SpringBoot, Microservices, JWT Security, Angular
 - Developed a dynamic Learning Management System (LMS) for an organization's Learning and Development team.
 - Utilized Java, SpringBoot, Microservices, and Angular to create a scalable and secure platform.
