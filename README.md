@@ -1,7 +1,7 @@
 # Vishal Swami
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue)](https://linkedin.com/in/vishalswami)
-[![GitHub](https://img.shields.io/badge/GitHub-GitHub-black)](https://github.com/vishalswami)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue)]([https://linkedin.com/in/vishalswami](https://www.linkedin.com/in/vishal-swami-b244bb1b8/))
+[![GitHub](https://img.shields.io/badge/GitHub-GitHub-black)](https://github.com/vishalswami-07)
 
 ## About Me
 
